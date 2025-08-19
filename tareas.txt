@@ -3,3 +3,5 @@ PENDIENTES:
 1-Estudiar programación.
 
 2-Estudiar matemática.
+
+3-Estudiar bases de datos
