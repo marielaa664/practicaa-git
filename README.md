@@ -18,6 +18,10 @@ Mis objetivos a realizar son:
 
 
 
+4-Poder aplicar todo lo aprendido en un entorno laboral.
+
+
+
 
 
 
